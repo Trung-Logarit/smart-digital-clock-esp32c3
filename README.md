@@ -13,7 +13,7 @@
 ---
 
 ## Demo Video
-👉 [Watch Demo Video]([https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/Evb2tunF1ZlOj1-KEonS4-QBRIs6iY3oaKkIodkvFbZWYg?e=yePtbq](https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/EoB4OwdcJPhLl9rfLrjFGPYBh64os1MtreClBHbddoRq0g?e=lbbf4Q))
+Watch Demo Video: https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/Evb2tunF1ZlOj1-KEonS4-QBRIs6iY3oaKkIodkvFbZWYg?e=yePtbq](https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/EoB4OwdcJPhLl9rfLrjFGPYBh64os1MtreClBHbddoRq0g?e=lbbf4Q
 
 ---
 
@@ -44,23 +44,6 @@ It supports **BLE (Bluetooth Low Energy)** for remote control via smartphone and
 
 ---
 
-## Project Structure
-smart-digital-clock-esp32c3/
-├─ main/ # main application code
-├─ components/
-│ ├─ dht/ # DHT11 driver
-│ └─ max7219/ # MAX7219 LED matrix driver
-├─ partitions/ # partition table (CSV)
-├─ CMakeLists.txt
-├─ README.md
-├─ LICENSE
-├─ dependencies.lock
-├─ sdkconfig.defaults
-└─ .gitignore
-
-
----
-
 ## Quick Start
 
 ### Requirements
@@ -71,7 +54,7 @@ smart-digital-clock-esp32c3/
 ### Build & Flash
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/smart-digital-clock-esp32c3.git
+git clone https://github.com/Trung-Logarit/smart-digital-clock-esp32c3
 cd smart-digital-clock-esp32c3
 
 # Set target chip
@@ -85,6 +68,9 @@ idf.py -p <PORT> flash monitor
 
 ---
 
-## License - This project is licensed under the MIT License – see the LICENSE file for details.
-## Contact - Email: trungnguyenraz@gmail.com (Trung Logaric)
+## License
+- This project is licensed under the MIT License – see the LICENSE file for details.
+## Contact
+- Email: trungnguyenraz@gmail.com (Trung Logaric)
+
 
