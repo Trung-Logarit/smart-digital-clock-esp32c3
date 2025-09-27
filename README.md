@@ -83,5 +83,8 @@ idf.py build
 # Flash to board and monitor output
 idf.py -p <PORT> flash monitor
 
+---
+
 ## License - This project is licensed under the MIT License – see the LICENSE file for details.
 ## Contact - Email: trungnguyenraz@gmail.com (Trung Logaric)
+
