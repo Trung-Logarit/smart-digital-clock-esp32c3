@@ -1,0 +1,24 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "app_state.c"
+        "wifi.c"
+        "time_svc.c"
+        "display.c"
+        "button.c"
+        "sensor_dht.c"
+        "alarm_task.c"  
+        "ble_alarm.c" 
+    INCLUDE_DIRS "."
+    PRIV_REQUIRES
+        max7219
+        esp_event
+        esp_wifi
+        esp_netif
+        nvs_flash
+        driver
+        log
+        esp_timer
+        dht
+        bt
+)
