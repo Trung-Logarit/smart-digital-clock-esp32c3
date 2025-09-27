@@ -13,7 +13,7 @@
 ---
 
 ## Demo Video
-Watch Demo Video: https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/Evb2tunF1ZlOj1-KEonS4-QBRIs6iY3oaKkIodkvFbZWYg?e=yePtbq](https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/EoB4OwdcJPhLl9rfLrjFGPYBh64os1MtreClBHbddoRq0g?e=lbbf4Q
+Watch Demo Video: https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/EoB4OwdcJPhLl9rfLrjFGPYBh64os1MtreClBHbddoRq0g?e=y3pSjm
 
 ---
 
@@ -65,12 +65,13 @@ idf.py build
 
 # Flash to board and monitor output
 idf.py -p <PORT> flash monitor
-
+```
 ---
 
 ## License
 - This project is licensed under the MIT License – see the LICENSE file for details.
 ## Contact
 - Email: trungnguyenraz@gmail.com (Trung Logaric)
+
 
 
