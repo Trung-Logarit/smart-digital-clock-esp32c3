@@ -16,7 +16,6 @@
 Watch Demo Video: https://dutudn-my.sharepoint.com/:f:/g/personal/106210257_sv1_dut_udn_vn/EoB4OwdcJPhLl9rfLrjFGPYBh64os1MtreClBHbddoRq0g?e=y3pSjm
 
 ---
----
 
 ## Slide
 File Report: https://dutudn-my.sharepoint.com/:p:/g/personal/106210257_sv1_dut_udn_vn/EeHv3QibA_FJpmy3BoR27OsB7wJm-oIC35yFPD6UGKpcBQ?e=t3YgZJ
@@ -77,6 +76,7 @@ idf.py -p <PORT> flash monitor
 - This project is licensed under the MIT License – see the LICENSE file for details.
 ## Contact
 - Email: trungnguyenraz@gmail.com (Trung Logaric)
+
 
 
 
